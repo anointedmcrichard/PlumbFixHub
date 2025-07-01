@@ -1,1 +1,1 @@
-console.log('Admin Panel Loaded');
+// JS for search/filter and WhatsApp button
